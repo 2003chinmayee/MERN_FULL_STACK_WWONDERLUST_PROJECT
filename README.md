@@ -159,6 +159,8 @@ utils/	Middleware and helper functions (authentication, validation, etc.)
 
 💼 Full Stack Developer | MERN | Passionate Learner
 
+⭐ If you like this project, please give it a star on GitHub!
+
 
 
 
